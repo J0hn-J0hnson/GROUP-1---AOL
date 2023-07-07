@@ -5,4 +5,4 @@ KUIKA Barcode Scanner and Generator designed to help shorten retail store custom
 Application made using flutter and firebase
 
 Notes:
-To ensure that the barcode scans work, testing should be done on a physical device connected to android studio
+To ensure that the barcode scanner work, testing should be done on a physical device connected to android studio
