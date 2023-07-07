@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208840856783",
+    "project_id": "seefp-d1dfe",
+    "storage_bucket": "seefp-d1dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208840856783:android:9f8fa76a24c8f2d58013ba",
+        "android_client_info": {
+          "package_name": "com.mycompany.sedp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDAqDb-9zR2LHpeCz91ll_rFdWWBjB8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
